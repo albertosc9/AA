@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xml>
+	<alumnos>
+		<alumno nia="21">
+			<nombre> Unai</nombre>
+			<apellido1> Antón</apellido1>
+			<apellido2> Ríos</apellido2>
+		</alumno>
+		<alumno nia="32">
+			<nombre> Borja</nombre>
+			<apellido1>Argibay</apellido1>
+			<apellido2> Vázquez</apellido2>
+		</alumno>
+		<alumno nia="53">
+			<nombre> Guillermo</nombre>
+			<apellido1> Blanco</apellido1>
+			<apellido2> Andrés</apellido2>
+		</alumno>
+		<alumno nia="64">
+			<nombre> Piotr</nombre>
+			<apellido1> Blaszczyk</apellido1>
+			<apellido2>
+			</apellido2>
+		</alumno>
+		<alumno nia="58">
+			<nombre> Lucas</nombre>
+			<apellido1> Calvo</apellido1>
+			<apellido2> Martín</apellido2>
+		</alumno>
+		<alumno nia="216">
+			<nombre> Adrián</nombre>
+			<apellido1> Castro</apellido1>
+			<apellido2> Villacañas</apellido2>
+		</alumno>
+		<alumno nia="237">
+			<nombre> Felipe</nombre>
+			<apellido1> Cortes</apellido1>
+			<apellido2> Montoya</apellido2>
+		</alumno>
+		<alumno nia="58">
+			<nombre> Fernando Luis</nombre>
+			<apellido1> Delgado</apellido1>
+			<apellido2> Corbacho</apellido2>
+		</alumno>
+		<alumno nia="921">
+			<nombre> Ramón</nombre>
+			<apellido1> Díaz</apellido1>
+			<apellido2> Cuenca</apellido2>
+		</alumno>
+		<alumno nia="101">
+			<nombre> Nuria</nombre>
+			<apellido1> Garzón</apellido1>
+			<apellido2> García</apellido2>
+		</alumno>
+		<alumno nia="116">
+			<nombre> David</nombre>
+			<apellido1> Gómez</apellido1>
+			<apellido2> Suárez</apellido2>
+		</alumno>
+		<alumno nia="132">
+			<nombre> David</nombre>
+			<apellido1> Hernández</apellido1>
+			<apellido2> Sánchez</apellido2>
+		</alumno>
+		<alumno nia="513">
+			<nombre> Carlos Manuel</nombre>
+			<apellido1> Mahia</apellido1>
+			<apellido2> Rachello</apellido2>
+		</alumno>
+		<alumno nia="614">
+			<nombre> Alejandro</nombre>
+			<apellido1> Marín</apellido1>
+			<apellido2> Rivero</apellido2>
+		</alumno>
+		<alumno nia="155">
+			<nombre> Raúl</nombre>
+			<apellido1> Moreno</apellido1>
+			<apellido2> Martínez</apellido2>
+		</alumno>
+		<alumno nia="156">
+			<nombre> Santiago</nombre>
+			<apellido1> Pinzón</apellido1>
+			<apellido2> Maldonado</apellido2>
+		</alumno>
+		<alumno nia="271">
+			<nombre> Juán José</nombre>
+			<apellido1> Rollán</apellido1>
+			<apellido2> Palomo</apellido2>
+		</alumno>
+		<alumno nia="818">
+			<nombre> Alberto</nombre>
+			<apellido1> Sánchez</apellido1>
+			<apellido2> Catela</apellido2>
+		</alumno>
+	</alumnos>
+</xml>

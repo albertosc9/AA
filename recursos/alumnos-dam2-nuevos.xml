@@ -1,0 +1,33 @@
+<alumnos>
+	<alumno nia="171">
+		<nie></nie>
+		<nombre>Julia</nombre>
+	<apellido1>Sanz</apellido1>
+	<apellido2>Martín</apellido2>
+	<email></email>
+	</alumno>
+
+	<alumno nia="318">
+		<nie></nie>
+		<nombre>Francisco</nombre>
+	<apellido1>Domínguez</apellido1>
+	<apellido2>Sánchez</apellido2>
+	<email></email>
+	</alumno>
+	<alumno nia="619">
+		<nie></nie>
+		<nombre>Valery</nombre>
+	<apellido1>Martin</apellido1>
+	<apellido2></apellido2>
+	<email></email>
+	</alumno>
+
+
+
+
+
+
+
+
+
+</alumnos>
